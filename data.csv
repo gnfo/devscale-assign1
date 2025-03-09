@@ -1,0 +1,12 @@
+id,nama_ibu,tgl_lahir_ibu,jenis_persalinan,tgl_lahir_bayi,jk_bayi,bb_bayi,panjang_bayi
+1,Ani,1990-05-15,Normal,2023-01-10,L,3.2,50.0
+2,Binar,1988-11-22,Cesar,2023-02-05,P,2.9,48.0
+3,Citra,1992-03-30,Normal,2023-03-12,L,3.5,52.0
+4,Dewi,1995-07-18,Normal,2023-04-20,P,3.1,49.0
+5,Eka,1985-09-25,Cesar,2023-05-15,L,3.4,51.0
+6,Fani,1991-12-10,Normal,2023-06-22,P,3.0,50.0
+7,Gita,1989-04-05,Normal,2023-07-30,L,3.3,52.0
+8,Hani,1993-08-12,Cesar,2023-08-10,P,2.8,47.0
+9,Ika,1987-06-20,Normal,2023-09-25,L,3.6,53.0
+10,Jenar,1994-02-28,Normal,2023-10-05,P,3.2,50.0
+11,Kinan,2000-09-11,Cesar,2025-02-29,L,2.6,40.0
